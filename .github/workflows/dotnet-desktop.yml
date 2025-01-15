@@ -17,10 +17,10 @@ jobs:
     runs-on: windows-latest
 
     env:
-      Project_Path: pidDemo/pidDemo.csproj  # Replace with your project path, i.e. MyWpfApp/MyWpfApp.csproj.
-      Test_Project_Path: your-test-project-path  # Replace with the path to your test project, i.e. MyWpfApp.Tests/MyWpfApp.Tests.csproj.
-      Wap_Project_Directory: your-wap-project-directory-name
-      Wap_Project_Path: your-wap-project-path
+      Project_Path: pidDemo/pidDemo.csproj  # Replace with your project path
+      Test_Project_Path: pidDemo/Program.cs  # Replace with the path to your test project
+      Wap_Project_Directory: pidDemo
+      Wap_Project_Path: pidDemo/pidDemo.csproj
 
     steps:
     - name: Checkout
