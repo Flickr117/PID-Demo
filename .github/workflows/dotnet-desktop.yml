@@ -17,8 +17,7 @@ jobs:
     runs-on: windows-latest
 
     env:
-      Project_Path: pidDemo/pidDemo.csproj  # Replace with your project path
-      Test_Project_Path: pidDemo/Program.cs  # Replace with the path to your test project
+      Project_Path: pidDemo/pidDemo.csproj
       Wap_Project_Directory: pidDemo
       Wap_Project_Path: pidDemo/pidDemo.csproj
 
@@ -40,7 +39,7 @@ jobs:
 
     # Execute all unit tests in the project
     - name: Execute unit tests
-      run: dotnet test ${{ env.Test_Project_Path }}
+      run: dotnet test ${{ env.Project_Path }}
 
     # Restore the application to populate the obj folder with RuntimeIdentifiers
     - name: Restore the application
