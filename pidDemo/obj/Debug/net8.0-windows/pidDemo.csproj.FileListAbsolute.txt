@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\ComProg\PT\pidDemo\bin\Debug\net8.0-windows\pidDemo.exe
+C:\Users\user\Desktop\ComProg\PT\pidDemo\bin\Debug\net8.0-windows\pidDemo.deps.json
+C:\Users\user\Desktop\ComProg\PT\pidDemo\bin\Debug\net8.0-windows\pidDemo.runtimeconfig.json
+C:\Users\user\Desktop\ComProg\PT\pidDemo\bin\Debug\net8.0-windows\pidDemo.dll
+C:\Users\user\Desktop\ComProg\PT\pidDemo\bin\Debug\net8.0-windows\pidDemo.pdb
+C:\Users\user\Desktop\ComProg\PT\pidDemo\obj\Debug\net8.0-windows\pidDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\ComProg\PT\pidDemo\obj\Debug\net8.0-windows\pidDemo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\ComProg\PT\pidDemo\obj\Debug\net8.0-windows\pidDemo.AssemblyInfo.cs
+C:\Users\user\Desktop\ComProg\PT\pidDemo\obj\Debug\net8.0-windows\pidDemo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ComProg\PT\pidDemo\obj\Debug\net8.0-windows\pidDemo.dll
+C:\Users\user\Desktop\ComProg\PT\pidDemo\obj\Debug\net8.0-windows\refint\pidDemo.dll
+C:\Users\user\Desktop\ComProg\PT\pidDemo\obj\Debug\net8.0-windows\pidDemo.pdb
+C:\Users\user\Desktop\ComProg\PT\pidDemo\obj\Debug\net8.0-windows\pidDemo.genruntimeconfig.cache
+C:\Users\user\Desktop\ComProg\PT\pidDemo\obj\Debug\net8.0-windows\ref\pidDemo.dll
