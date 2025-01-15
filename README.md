@@ -25,6 +25,8 @@ This project demonstrates the use of a simple PID controller to move a circle to
 - Adjustable PID values via text inputs for real-time tuning.
 - Visual feedback with a draggable circle and a target position.
 
-  
+
+#
+*Note: Please slowly increment the values in decimal point as higher values may lead to overshoot and glitches.*
 #
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
