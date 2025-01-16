@@ -14,8 +14,8 @@ PID stands for Proportional-Integral-Derivative. It is a control loop feedback m
 - *Lower Kp = Slower response, but no overshooting.*
 - *Higher Ki = Fixes small errors, but may overcorrect.*
 - *Lower Ki = Leaves small errors, but smoother behavior.*
-- *Higher Kd = Smooths out the movement, but may slow down the system.*
-- *Lower Kd = Faster corrections, but may overshoot.*
+- *Higher Kd: Smooths out movements by dampening rapid changes, making the system slower but more stable.*
+- *Lower Kd: Leads to less damping, making the system respond faster but bouncier or more oscillatory.*
 
 #
 This project demonstrates the use of a simple PID controller to move a circle toward a target position (Red Circle). The system adjusts the circle's position using proportional, integral, and derivative control to achieve smooth and accurate movement. The application is built using **C#** and Windows Forms.
